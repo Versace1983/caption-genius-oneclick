@@ -1,5 +1,5 @@
 {
-  "name": "caption-genius-ready",
+  "name": "caption-genius-oneclick",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,3 +14,4 @@
     "openai": "^4.20.0"
   }
 }
+
