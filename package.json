@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "[my-framework] build --output public",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
@@ -13,3 +13,4 @@
     "openai": "^4.20.0"
   }
 }
+
